@@ -21,8 +21,8 @@ Cada archivo tiene su propio `main`, así que se compilan por separado. No se ne
 Se necesita un compilador compatible con C++17. Por ejemplo, con g++:
 
 ```sh
-g++ -std=c++17 -Wall -Wextra -pedantic "problema 2.cpp" -o problema2
-g++ -std=c++17 -Wall -Wextra -pedantic "problema 4.cpp" -o problema4
+g++ -std=c++17 -Wall -Wextra -pedantic problema2.cpp -o problema2
+g++ -std=c++17 -Wall -Wextra -pedantic problema4.cpp -o problema4
 ```
 
 En Linux o macOS:
