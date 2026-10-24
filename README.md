@@ -1,6 +1,8 @@
 # EXAMEN PARCIAL 2026-2  
-Curso: Análisis y Diseño de Algoritmos
-Docente: Josue Miguel Flores Parra
+**Curso:** Análisis y Diseño de Algoritmos
+
+**Docente:** Josue Miguel Flores Parra
+
 Código de apoyo para los problemas 2 y 4 del exámen.
 
 El informe contiene los procedimientos, las explicaciones y las trazas. Estos programas permiten ejecutar los ejemplos y comprobar sus resultados.
