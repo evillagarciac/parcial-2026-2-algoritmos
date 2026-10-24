@@ -1,0 +1,15 @@
+# Ejecutables y archivos de compilacion
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+a.out
+problema2
+problema4
+
+# Configuracion local del editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
